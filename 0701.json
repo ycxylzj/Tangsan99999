@@ -2,7 +2,7 @@
 // 配置地址 --> https://pandorays.github.io/Tangsan99999/0701.json
 {
 "spider":"https://pandorays.github.io/Tangsan99999/0701.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3RzLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3BhbmRvcmF5cy9UYW5nc2FuOTk5OTkvenFrZC90di9saXZlLnR4dA=="]}]}],
 
 
 "sites":[
